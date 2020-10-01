@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlightMobileApp</string>
+    <string name="connect" />
+    <string name="rudder">rudder</string>
+    <string name="throttle">throttle</string>
+    <string name="valueRudder" />
+    <string name="valueThortthle" />
+    <string name="errorMassege" />
+</resources>
